@@ -90,3 +90,7 @@ Máster en Data Science – Universidad Europea de Madrid
 
 ## 📌 Palabras clave
 *Machine Learning, Airbnb, Predicción de precios, Random Forest, Data Science, Streamlit*
+
+## 📜 Licencia
+Este proyecto está bajo la licencia [MIT](./LICENSE).  
+Puedes usarlo, modificarlo y distribuirlo libremente, siempre que se mantenga el aviso de copyright.
