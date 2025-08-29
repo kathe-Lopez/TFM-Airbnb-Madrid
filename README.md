@@ -57,10 +57,10 @@ La aplicación desarrollada en **Streamlit** permite:
 - Explorar un mapa interactivo con la distribución espacial de precios.
 
 ### 🖼️ Interfaz principal
-![Interfaz de la app](./imagenes/interfaz.png)
+![Interfaz de la app](mi_app_airbnb/imagenes/interfaz.png)
 
 ### 🗺️ Mapa de barrios
-![Mapa de barrios](./imagenes/mapa_barrios.png) 
+![Mapa de barrios](mi_app_airbnb/imagenes/mapa_barrios.png) 
 
 ---
 
