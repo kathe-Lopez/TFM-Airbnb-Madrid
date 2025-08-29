@@ -56,8 +56,11 @@ La aplicación desarrollada en **Streamlit** permite:
 - Visualizar barrios con precios más cercanos o más baratos que el seleccionado.  
 - Explorar un mapa interactivo con la distribución espacial de precios.
 
-![Interfaz principal](./imagenes/interfaz_prediccion.png)  
-![Mapa de barrios](./imagenes/mapa_barrios.png)  
+### 🖼️ Interfaz principal
+![Interfaz de la app](./imagenes/interfaz.png)
+
+### 🗺️ Mapa de barrios
+![Mapa de barrios](./imagenes/mapa_barrios.png) 
 
 ---
 
