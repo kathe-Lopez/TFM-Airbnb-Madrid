@@ -38,14 +38,21 @@ El proyecto se desarrolló siguiendo la metodología **CRISP-DM**, con las fases
 
 ---
 
-## 📈 Resultados principales
-- **Modelo seleccionado**: Random Forest  
-- **Métricas obtenidas (conjunto de prueba)**:  
-  - MAE: 12.90 €  
-  - RMSE: 18.99 €  
-  - R²: 0.883  
+## 📈 Resultados principales  
 
-El modelo demuestra una alta precisión en la predicción de precios, con errores medios muy bajos y una capacidad de explicación del 88% de la variabilidad en los datos.
+- **Modelo seleccionado**: Random Forest (optimizado con búsqueda de hiperparámetros)  
+- **Métricas obtenidas (conjunto de prueba)**:  
+  - **MAE:** 6,34 €  
+  - **RMSE:** 8,75 €  
+  - **R²:** 0,975  
+
+El modelo optimizado ofrece un rendimiento sobresaliente, con errores de predicción muy bajos y una capacidad de explicación superior al **97% de la variabilidad de los precios**.  
+
+### 🔎 Aplicabilidad práctica  
+Este sistema puede apoyar a distintos actores del mercado turístico:  
+- **Anfitriones:** para fijar precios competitivos y maximizar ingresos.  
+- **Turistas:** para identificar estancias con tarifas justas.  
+- **Inversores:** para evaluar oportunidades de rentabilidad en diferentes barrios.  
 
 ---
 
