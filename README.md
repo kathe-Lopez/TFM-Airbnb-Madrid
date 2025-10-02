@@ -1,5 +1,9 @@
 # 🏠 Predicción de precios en Airbnb Madrid
 
+![Python](https://img.shields.io/badge/Python-3.9-blue) 
+![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen) 
+![License](https://img.shields.io/badge/License-MIT-orange)
+
 Este proyecto corresponde al Trabajo Fin de Máster (TFM) en **Data Science**, cuyo objetivo fue desarrollar un modelo de *Machine Learning* capaz de predecir los precios de alojamientos de **Airbnb en Madrid**, incorporando factores espaciales, estructurales y de estacionalidad temporal.  
 
 El resultado final es un sistema de predicción implementado en **Python** y desplegado en una interfaz interactiva que permite a los usuarios estimar el precio esperado según características específicas (barrio, tipo de alojamiento, número de habitaciones, baños, etc.) y comparar alternativas.
