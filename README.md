@@ -2,7 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) 
 ![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen) 
-![License](https://img.shields.io/badge/License-MIT-orange)
+![License](https://img.shields.io/badge/License-MIT-orange) 
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikitlearn)
+![Models](https://img.shields.io/badge/Models-CatBoost%20|%20XGBoost%20|%20RF-blueviolet)
+![Streamlit](https://img.shields.io/badge/App-Streamlit-ff69b4?logo=streamlit)
 
 Este proyecto corresponde al Trabajo Fin de Máster (TFM) en **Data Science**, cuyo objetivo fue desarrollar un modelo de *Machine Learning* capaz de predecir los precios de alojamientos de **Airbnb en Madrid**, incorporando factores espaciales, estructurales y de estacionalidad temporal.  
 
